@@ -1,1 +1,1 @@
-# VEF3B-verkefni-1
+þú ýtir á takkan... það kemur alert.
